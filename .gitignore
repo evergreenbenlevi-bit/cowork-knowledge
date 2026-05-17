@@ -1,0 +1,14 @@
+# CC-Cowork GitHub Sync — whitelist ONLY knowledge/cc-*.md
+# Uses **/* to match all files at any depth, then carves exceptions
+
+# Ignore all files at any depth
+**/*
+
+# Allow .gitignore itself
+!.gitignore
+
+# Allow directory traversal (without this git cannot descend)
+!**/
+
+# Allow ONLY cc-*.md inside any knowledge/ directory
+!**/knowledge/cc-*.md
