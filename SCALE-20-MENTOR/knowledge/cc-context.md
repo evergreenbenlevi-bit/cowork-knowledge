@@ -21,7 +21,7 @@
 ## Source integrity
 
 - `RM-CL-0002`: identity instruction only; no interview questions.
-- `RM-CL-0003`: exact local external-GPT prompts unavailable; approved Core OS PDF/manual are usable outputs.
+- `RM-CL-0003`: exact local external-GPT prompts unavailable; the approved Markdown Core OS manual is the sole canonical usable output.
 - `RM-CL-0004`: empty in all verified local extracted copies; additional private Toolkit content is `ACCESS_GAP`.
 - `RM-CL-0009`: complete usable 43-question written sequence and authority for the five-round current unit.
 - Generated local workbook questions marked `superseded-invalid-source` are not Tom source truth.
