@@ -16,7 +16,7 @@
 
 ## Current deliverable
 
-Future Vision is active from verified source `RM-CL-0005`. Ben approved the target date `2027-08-16`. The approved Current Reality input is `_output/L02-VISION-MIND/03-crafting-new-identity.md`; SHA-256 `70ea89e9b7504da9830f8456e020b4c246c6597807b0afd813cd573edb557eb9`. Active domain: Personal Identity & Emotions.
+Future Vision is active from verified source `RM-CL-0005`. Ben approved the target date `2027-08-16`. The approved Current Reality input is `_output/L02-VISION-MIND/03-crafting-new-identity.md`; SHA-256 `70ea89e9b7504da9830f8456e020b4c246c6597807b0afd813cd573edb557eb9`. Domain 1, Personal Identity & Emotions, is locked. Active domain: Health & Well-being.
 
 ## Source integrity
 
