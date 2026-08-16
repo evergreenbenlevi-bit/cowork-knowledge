@@ -16,7 +16,7 @@
 
 ## Current deliverable
 
-“Current Reality and 10.0 Me” was approved in full by Ben on 2026-08-16. Its unit-level source of truth is `_output/L02-VISION-MIND/03-crafting-new-identity.md`; SHA-256 `70ea89e9b7504da9830f8456e020b4c246c6597807b0afd813cd573edb557eb9`.
+Future Vision is active from verified source `RM-CL-0005`. Ben approved the target date `2027-08-16`. The approved Current Reality input is `_output/L02-VISION-MIND/03-crafting-new-identity.md`; SHA-256 `70ea89e9b7504da9830f8456e020b4c246c6597807b0afd813cd573edb557eb9`. Active domain: Personal Identity & Emotions.
 
 ## Source integrity
 
@@ -28,6 +28,6 @@
 
 ## Next action
 
-Load the exact Future Vision instruction and continue from the approved checkpoint. Do not copy the five-round answers into another personal file; broad BEN-PROFILE promotion waits for the final approved Level 1 synthesis.
+Ben answers the active source domain first, in first person and present tense. Reveal the independent assistant draft only after his answer; compare, refine and lock the domain explicitly before advancing.
 
 Read local `AGENTS.md` and `_context/TASK-CONTEXT.md` for the exact execution contract. Do not create another Plan, Master, Project, Phase, tracker or personal answer file.
